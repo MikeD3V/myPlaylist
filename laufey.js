@@ -1,18 +1,18 @@
-const Mfalling = new Audio("/music/laufey/Falling Behind.mp3");
-const Mbewitched = new Audio("/music/laufey/Laufey - Bewitched (Official Lyric Video with Chords).mp3");
-const Mbored = new Audio("/music/laufey/Laufey - Bored (Official Audio With Lyrics).mp3");
-const Mdreamer = new Audio("/music/laufey/Laufey - Dreamer (Official Lyric Video With Chords).mp3");
-const Mgoddess = new Audio("/music/laufey/Laufey - Goddess (Official Music Video).mp3");
-const Mhaunted = new Audio("/music/laufey/Laufey - Haunted (Official Lyric Video With Chords).mp3");
-const Mletter = new Audio("/music/laufey/Laufey - Letter To My 13 Year Old Self (Official Audio).mp3");
-const Mlovesick = new Audio("/music/laufey/Laufey - Lovesick (Official Lyric Video With Chords).mp3");
-const Monlymine = new Audio("/music/laufey/Laufey - Only Mine (Official Audio for Bose's Turn The Dial Sessions).mp3");
-const Mpromise = new Audio("/music/laufey/Laufey - Promise (Official Lyric Video With Chords).mp3");
-const Msecond = new Audio("/music/laufey/Laufey - Second Best (Official Lyric Video With Chords).mp3");
-const MbreakH = new Audio("/music/laufey/Let You Break My Heart Again - Laufey & Philharmonia Orchestra (Official Audio).mp3");
-const Mvalentine = new Audio("/music/laufey/Valentine.mp3");
-const Mmagnolia = new Audio("/music/laufey/Laufey - Magnolia (Official Audio).mp3");
-const Mbeautiful = new Audio("/music/laufey/Laufey - Beautiful Stranger (Official Audio).mp3");
+const Mfalling = new Audio("/laufey/Falling Behind.mp3");
+const Mbewitched = new Audio("/laufey/Laufey - Bewitched (Official Lyric Video with Chords).mp3");
+const Mbored = new Audio("/laufey/Laufey - Bored (Official Audio With Lyrics).mp3");
+const Mdreamer = new Audio("/laufey/Laufey - Dreamer (Official Lyric Video With Chords).mp3");
+const Mgoddess = new Audio("/laufey/Laufey - Goddess (Official Music Video).mp3");
+const Mhaunted = new Audio("/laufey/Laufey - Haunted (Official Lyric Video With Chords).mp3");
+const Mletter = new Audio("/laufey/Laufey - Letter To My 13 Year Old Self (Official Audio).mp3");
+const Mlovesick = new Audio("/laufey/Laufey - Lovesick (Official Lyric Video With Chords).mp3");
+const Monlymine = new Audio("/laufey/Laufey - Only Mine (Official Audio for Bose's Turn The Dial Sessions).mp3");
+const Mpromise = new Audio("/laufey/Laufey - Promise (Official Lyric Video With Chords).mp3");
+const Msecond = new Audio("/laufey/Laufey - Second Best (Official Lyric Video With Chords).mp3");
+const MbreakH = new Audio("/laufey/Let You Break My Heart Again - Laufey & Philharmonia Orchestra (Official Audio).mp3");
+const Mvalentine = new Audio("/laufey/Valentine.mp3");
+const Mmagnolia = new Audio("/laufey/Laufey - Magnolia (Official Audio).mp3");
+const Mbeautiful = new Audio("/laufey/Laufey - Beautiful Stranger (Official Audio).mp3");
 
 const tracks = [
   { audio: Mfalling, elementId: 'falling' },
